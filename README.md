@@ -21,8 +21,8 @@ Build a browser version of something between a sketchpad and an Etch-A-Sketch.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/skytop44/Etch-a-Sketch)
-- Live Site URL: [Add live site URL here](https://skytop44.github.io/Etch-a-Sketch/)
+- Solution URL: [link](https://github.com/skytop44/Etch-a-Sketch)
+- Live Site URL: [link](https://skytop44.github.io/Etch-a-Sketch/)
 
 ## My process
 
